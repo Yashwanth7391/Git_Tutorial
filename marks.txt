@@ -1,0 +1,4 @@
+Math: 89
+Science : 78
+Social : 96
+English : 88
