@@ -1,4 +1,5 @@
 Math: 89
 Science : 78
-Social : 96
+Social : 90
 English : 88
+Kannada : 79
